@@ -1,26 +1,25 @@
-# 🔍 Proyecto de Visualización de Datos con Python: Análisis de Ventas en Supermercado 🛒📊
+# Data Visualization Project with Python: Supermarket Sales Analysis 🛒📊
 
-Me complace compartir mi reciente proyecto de visualización de datos, donde utilicé Python para analizar y visualizar un dataset de ventas de supermercado. Este proyecto tiene como objetivo proporcionar información valiosa sobre el rendimiento de ventas y las tendencias de consumo, ayudando a tomar decisiones estratégicas informadas.
+I am pleased to share my recent data visualization project, where I used Python to analyze and visualize a supermarket sales dataset. This project aims to provide valuable insights into sales performance and consumer trends, helping to make informed strategic decisions.
 
-### 📈 Objetivos del Proyecto:
+## 📈 Project Objectives:
 
-* Análisis de Ventas: Identificar patrones y tendencias en las ventas diarias, semanales y mensuales.
-* Segmentación de Clientes: Analizar el comportamiento de compra según segmentos como género, edad y método de pago.
-* Evaluación de Productos: Determinar cuáles son los productos más vendidos y los menos populares.
-* Análisis Geográfico: Evaluar las ventas por sucursal y ubicación geográfica.
+* Sales Analysis: Identify patterns and trends in daily, weekly, and monthly sales.
+* Customer Segmentation: Analyze purchasing behavior by segments such as gender, age, and payment method.
+* Product Evaluation: Determine the best-selling and least popular products.
+* Geographical Analysis: Evaluate sales by branch and geographical location.
 
-### 🛠 Herramientas y Tecnologías Utilizadas:
+## 🛠 Tools and Technologies Used:
 
-* Python: Lenguaje principal para el análisis de datos.
-* Pandas: Manipulación y limpieza de datos.
-* Matplotlib y Seaborn: Creación de visualizaciones interactivas y gráficas informativas.
-* Jupyter Notebook: Desarrollo y presentación de análisis.
+* Python: Main language for data analysis.
+* Pandas: Data manipulation and cleaning.
+* Matplotlib and Seaborn: Creation of interactive visualizations and informative graphs.
+* Jupyter Notebook: Development and presentation of analysis.
 
-### 🔑 Resultados Clave:
+## 🔑 Key Results:
 
-* Reconocimiento de los productos más rentables y los menos populares para ajustar inventarios.
-* Análisis detallado del comportamiento del cliente, lo que facilita la creación de campañas de marketing dirigidas.
-  
-Este proyecto demuestra cómo el análisis de datos puede transformar grandes volúmenes de información en conocimientos prácticos, mejorando la eficiencia operativa y la satisfacción del cliente.
+Identification of the most profitable and least popular products to adjust inventories.
+Detailed analysis of customer behavior, facilitating the creation of targeted marketing campaigns.
+This project demonstrates how data analysis can transform large volumes of information into actionable insights, improving operational efficiency and customer satisfaction.
 
-¡Gracias por leer! Estoy abierto a comentarios y sugerencias. 
+Thank you for reading! I am open to comments and suggestions.
