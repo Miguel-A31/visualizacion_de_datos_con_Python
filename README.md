@@ -4,17 +4,17 @@ I am pleased to share my recent data visualization project, where I used Python 
 
 ## 📈 Project Objectives:
 
-* Sales Analysis: Identify patterns and trends in daily, weekly, and monthly sales.
-* Customer Segmentation: Analyze purchasing behavior by segments such as gender, age, and payment method.
-* Product Evaluation: Determine the best-selling and least popular products.
-* Geographical Analysis: Evaluate sales by branch and geographical location.
+* **Sales Analysis:** Identify patterns and trends in daily, weekly, and monthly sales.
+* **Customer Segmentation:** Analyze purchasing behavior by segments such as gender, age, and payment method.
+* **Product Evaluation:** Determine the best-selling and least popular products.
+* **Geographical Analysis:** Evaluate sales by branch and geographical location.
 
 ## 🛠 Tools and Technologies Used:
 
-* Python: Main language for data analysis.
-* Pandas: Data manipulation and cleaning.
-* Matplotlib and Seaborn: Creation of interactive visualizations and informative graphs.
-* Jupyter Notebook: Development and presentation of analysis.
+* **Python:** Main language for data analysis.
+* **Pandas:** Data manipulation and cleaning.
+* **Matplotlib and Seaborn:** Creation of interactive visualizations and informative graphs.
+* **Jupyter Notebook:** Development and presentation of analysis.
 
 ## 🔑 Key Results:
 
